@@ -89,7 +89,8 @@ My dataset contains various 26 attributes and 1122440 records. (More than 1 Mill
    <img src="https://github.com/roshank007/DAB_402_CAPSTONE_PROJECT/blob/main/srcimg/pie_lang.jpeg"  alt="lang" >
 <h2>Here in my dataset total 78.01% tweets are in English language while rest of 21.99% tweets are in foreign language.
 
-Out of 1122440 records, 875658 tweets posted in English language which contributes for 78.01%.</h2> </p>
+Out of 1122440 records, 875658 tweets posted in English language which contributes for 78.01%.</h2>
+</p>
 
 
 <p align='center'>
@@ -99,7 +100,7 @@ Out of 1122440 records, 875658 tweets posted in English language which contribut
 </p>
 
 
-</p>
+<p>
 <h2> Sentiment Generation</h2>
 
 
@@ -118,4 +119,50 @@ If polarity equal to zero then interpreted as Neutral,
 <h3>
 If polarity less than zero then interpreted as Negative.
 </h3>
+ </p>
+
+<p>
+    <img src="https://github.com/roshank007/DAB_402_CAPSTONE_PROJECT/blob/main/srcimg/totaltweets.jpeg"  alt="tweet" >
+</p>
+<p align='center'>
+ <h2>Sentiment Visulization</h2>
+     <img src="https://github.com/roshank007/DAB_402_CAPSTONE_PROJECT/blob/main/srcimg/tweetpiesenti.jpeg"  alt="piesenti" >
+   <h2>
+As here pie chart represents out of total tweets 46.47% tweets are positive which is slightly below the one half. 2nd dominating one is neutral which accounts for 36.68% that’s around the one third and the rest of is negative which is for 16.83%.
+ </h2>
+<h2>
+     <img src="https://github.com/roshank007/DAB_402_CAPSTONE_PROJECT/blob/main/srcimg/tweetsbymonth.jpeg"  alt="linesenti" > </h2>
+<h2>
+As here early we observed in the pie chart for total tweet’s sentiment than we break down our tweets in by month so we notice around negative tweets steady throughout all months, while trend for neutral and positive one varies. Noticeable one is for all tweets records their highest in the March which is represented by 3 in figure. As obvious it depends on the total number of tweets.
+</h2>
+</p>
+
+<p>
+<h2> Topic Modeling</h2>
+
+
+<h3> Topic modeling is a machine learning technique that automatically analyzes text data to determine cluster words for a set of documents.
+</h3>
+
+<h3>
+This is known as ‘unsupervised’ machine learning because it doesn’t require a predefined list of tags or training data that’s been previously classified by humans.
+</h3>
+
+<h3>
+Since topic modeling doesn’t require training, it’s a quick and easy way to start analyzing your data. However, you can’t guarantee you’ll receive accurate results.</h3>
+ 
+<h3>
+It’s simple, really. Topic modeling involves counting words and grouping similar word patterns to infer topics within unstructured data. As an example, Instead of spending hours going through heaps of feedback, in an attempt to deduce which texts are talking about your topics of interest, you could analyze them with a topic modeling algorithm.
+By detecting patterns such as word frequency and distance between words, a topic model clusters feedback that is similar, and words and expressions that appear most often. With this information, you can quickly deduce what each set of texts are talking about. Remember, this approach is ‘unsupervised’ meaning that no training is required. 
+</h3>
+
+
+<h3>
+ Latent Dirichlet Allocation (LDA) is based on the same underlying assumptions: the distributional hypothesis, (i.e. similar topics make use of similar words) and the statistical mixture hypothesis (i.e. documents talk about several topics) for which a statistical distribution can be determined. 
+ 
+The purpose of LDA is mapping each document in our corpus to a set of topics which covers a good deal of the words in the document.
+
+</h3> CLICK IT TOO SEE MY TOPIC MODELING
+<img src="https://github.com/roshank007/DAB_402_CAPSTONE_PROJECT/blob/main/srcimg/pylda_without_selected.jpg"  alt="pyldavis" href ='https://roshank007.github.io/DAB_402_CAPSTONE_PROJECT/#topic=4&lambda=0.58&term='>  
+
  </p>
