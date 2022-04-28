@@ -38,3 +38,16 @@
 
 </h3>
 </p>
+
+
+</p>
+<h1> Let's back to my project:</h1>
+</p>
+
+## I divided my project into several parts for better understanding and easy execution.
+
+<p align='center'>
+ <img src=""  alt="flowchart" ></p>
+
+</p>
+
