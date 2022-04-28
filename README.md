@@ -27,3 +27,14 @@
  <img src="https://github.com/roshank007/DAB_402_CAPSTONE_PROJECT/blob/main/srcimg/NLP_Processing.jpg"  alt="NLP" ></p>
 
 </p>
+
+</p>
+<h2> Do we know any daily life usage of NLP In the life?</h2>
+
+  <img src="https://media.giphy.com/media/hXDrTueJWAscK3xWQ2/giphy.gif"  alt="yes" >
+
+<h3>Answer is Bigggggggggg yesssssssssss, the best known example of day to day life use of NLP oriented is smart assistant like Google assistant (hello/ok Google), Siri (Mac/iOS devices) and Cortana for the windows is the best example.
+
+
+</h3>
+</p>
