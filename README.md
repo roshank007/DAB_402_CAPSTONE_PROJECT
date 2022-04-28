@@ -1,6 +1,39 @@
 # DAB 402 CAPSTONE PROJECT
 
 <h1> My capstone project "Sentiment Analysis on Gaming-Covid with Python and NLP" in which  I will performSentiment Analysis on more than 1 Million Tweets of Gaming During Covid19 with help of Python and NLP </h1>
+
+#### Tech Stack :nerd_face:
+
+<p align="left">
+<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python"/> </a> 
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter"/> </a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/> </a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt=""/> </a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt=""/> </a>
+<a href="" target="_blank"> <img src="	https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt=""/> </a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt=""/> </a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt=""/> </a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt=""/> </a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" alt=""/> </a>
+<a href="" target="_blank"> <img src="" alt=""/> </a>
+<a href="" target="_blank"> <img src="" alt=""/> </a>
+<a href="" target="_blank"> <img src="" alt=""/> </a>
+
+</p>
+
+#### Instructions to run
+```
+$ git clone https://github.com/roshank007/DAB_402_CAPSTONE_PROJECT.git
+$ download csv https://www.kaggle.com/datasets/erroshan/sentiment-analysis-on-twitter-data-during-covid
+$ start Jupyter notebook
+$ open part1
+$ open part2
+$ open part3
+$ open part4
+$ run the kernel
+```
+
+
 <p align='center'>
  <img src="https://github.com/roshank007/DAB_402_CAPSTONE_PROJECT/blob/main/srcimg/sentidefi.jpg"  alt="sentimentdefi" ></p>
 
@@ -166,3 +199,21 @@ The purpose of LDA is mapping each document in our corpus to a set of topics whi
 <img src="https://github.com/roshank007/DAB_402_CAPSTONE_PROJECT/blob/main/srcimg/pylda_without_selected.jpg"  alt="pyldavis" href ='https://roshank007.github.io/DAB_402_CAPSTONE_PROJECT/#topic=4&lambda=0.58&term='>  
 
  </p>
+
+#### Do drop by a :star: if you like it!
+
+
+<h2 > 🤝  Connect with me </h2>
+<p align="left">
+  
+[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/erroshankalyani007/)
+| [<img align="top" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/erroshan)
+| [<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/roshankalyani/)
+| [<img align="top" alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_roshankalyani)
+| [<img align="top" alt="Gmail" src="https://img.shields.io/badge/-RoshanKalyani-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:roshan.150410116024@gmail.com)"/>](mailto:roshan.150410116024@gmail.com)
+
+ 
+<h2 >  Show Your Love </h2>
+<p align="left">
+ <a href="buymeacoffee.com/roshank007" target="_blank"> <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt=""/> </a>
+
