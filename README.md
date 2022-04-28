@@ -1,5 +1,6 @@
 # DAB 402 CAPSTONE PROJECT
 
-This  my DAB 402 ( capstone project) which is "Sentiment Analysis on Gaming with Python and NLP".
+<h1> My capstone project "Sentiment Analysis on Gaming-Covid with Python and NLP" in which  I will performSentiment Analysis on more than 1 Million Tweets of Gaming During Covid19 with help of Python and NLP </h1>
+
 
 
