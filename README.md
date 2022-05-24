@@ -215,5 +215,5 @@ The purpose of LDA is mapping each document in our corpus to a set of topics whi
  
 <h2 >  Show Your Love </h2>
 <p align="left">
- <a href="buymeacoffee.com/roshank007" target="_blank"> <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt=""/> </a>
+ <a href="buymeacoffee.com/roshank007" target=""> <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt=""/> </a>
 
