@@ -196,7 +196,7 @@ By detecting patterns such as word frequency and distance between words, a topic
 The purpose of LDA is mapping each document in our corpus to a set of topics which covers a good deal of the words in the document.
 
 </h3> CLICK IT TOO SEE MY TOPIC MODELING
-<img src="https://github.com/roshank007/DAB_402_CAPSTONE_PROJECT/blob/main/srcimg/pylda_without_selected.jpg"  alt="pyldavis" href ='https://roshank007.github.io/DAB_402_CAPSTONE_PROJECT/#topic=4&lambda=0.58&term='>  
+<img src="https://github.com/roshank007/DAB_402_CAPSTONE_PROJECT/blob/main/srcimg/pylda_without_selected.jpg"  alt="pyldavis" href='https://roshank007.github.io/DAB_402_CAPSTONE_PROJECT/#topic=4&lambda=0.58&term='>  
 
  </p>
 
@@ -213,7 +213,5 @@ The purpose of LDA is mapping each document in our corpus to a set of topics whi
 | [<img align="top" alt="Gmail" src="https://img.shields.io/badge/-RoshanKalyani-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:roshan.150410116024@gmail.com)"/>](mailto:roshan.150410116024@gmail.com)
 
  
-<h2 >  Show Your Love </h2>
-<p align="left">
- <a href="buymeacoffee.com/roshank007" target=""> <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt=""/> </a>
+
 
